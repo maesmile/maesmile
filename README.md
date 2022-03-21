@@ -17,7 +17,7 @@ Microsoft Principal Engineering Manager working on co-build projects with custom
 ![iOS Badge](https://img.shields.io/badge/iOS-000?logo=ios&logoColor=fff&style=flat) ![macOS Badge](https://img.shields.io/badge/macOS-000?logo=macos&logoColor=fff&style=flat) ![Windows Badge](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat)
   
 ### Work:
-[![Azure](https://badgen.net/badge/icon/azure?icon=azure&label)](https://azure.microsoft.com) [![Visual Studio](https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label)](https://visualstudio.microsoft.com)
+[![Azure](https://badgen.net/badge/icon/azure?icon=azure&label)](https://azure.microsoft.com) [![Visual Studio](https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label)](https://visualstudio.microsoft.com) [![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com)
 
 
 <!--
