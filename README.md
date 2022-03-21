@@ -2,6 +2,7 @@
 
 # A bit about me
 Microsoft Principal Engineering Manager working on co-build projects with customers and partners
+<br />
 <a href="https://www.linkedin.com/in/mesmiley/">
   <img align="left" alt="Marc's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
