@@ -8,6 +8,7 @@
   <img align="left" alt="Marc Esmiley | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <br />
+<br />
 Microsoft Principal Engineering Manager working on co-build projects with customers and partners
 
 # My main tools
